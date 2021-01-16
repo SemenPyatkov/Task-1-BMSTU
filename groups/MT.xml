@@ -1,0 +1,24 @@
+<?xml version='1.0'?>
+<?xml-stylesheet href="../groups.xsl" type="text/xsl" ?>
+<root>
+    <group title="МТ1-11">
+        <student fio="Токмакова П.Е"/>
+        <student fio="Толкачек Д.С"/>
+        <student fio="Фаизова А.С"/>
+        <student fio="Шевцова Е.А"/>
+    </group>
+    <group title="МТ1-12">
+        <student fio="Карпич Ю.В"/>
+        <student fio="Клемешев А.С"/>
+        <student fio="Корсун В.А"/>
+        <student fio="Маляров С.А"/>
+        <student fio="Корсун В.А"/>
+        <student fio="Маляров С.А"/>
+    </group>
+    <group title="МТ1-13">
+        <student fio="Пшеничная Е.Ф"/>
+        <student fio="Семикова Л.Е"/>
+        <student fio="Стасюк А.В"/>
+        <student fio="Карпич Ю.В"/>
+    </group>
+</root>
